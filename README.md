@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/rbaDIwtDX7qjC/giphy.gif" width="400">
-</p>
-
 Languages & Technologies:  
 C | C++ | .NET | Python
 
