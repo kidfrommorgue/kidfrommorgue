@@ -8,7 +8,7 @@ Security & offensive / defensive:
 Ethics in Hacking, Attack & Defense OSINT, Digital Footprint
 
 Vectors:  
-Ransomware | Trojans | Spyware  
+Ransomware, Trojans, Spyware  
 Social Engineering (Phishing, Smishing, Vishing, Baiting, Whaling)
 
 Virtualization:  
