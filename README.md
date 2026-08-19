@@ -1,17 +1,17 @@
-LANGUAGES & TECHNOLOGIES:
+LANGUAGES & TECHNOLOGIES:  
 C | C++ | .NET | Python
 
-AREAS OF INTEREST:
+AREAS OF INTEREST:  
 Systems Programming, Software Development, Cybersecurity, Networking
 
-SECURITY & OFFENSIVE / DEFENSIVE:
+SECURITY & OFFENSIVE / DEFENSIVE:  
 Ethics in Hacking, Attack & Defense OSINT, Digital Footprint
 
-VECTORS:
-Ransomware | Trojans | Spyware
+VECTORS:  
+Ransomware | Trojans | Spyware  
 Social Engineering (Phishing, Smishing, Vishing, Baiting, Whaling)
 
-VIRTUALIZATION:
+VIRTUALIZATION:  
 Hypervisors, Virtual Machines, Kernel Development
 
 <p align="center">
