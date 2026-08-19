@@ -1,5 +1,5 @@
 Languages & Technologies:  
-C | C++ | .NET | Python
+C C++ .NET Python others...
 
 Areas of interest:  
 Systems Programming, Software Development, Cybersecurity, Networking
