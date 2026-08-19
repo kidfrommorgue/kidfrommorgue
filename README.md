@@ -1,5 +1,5 @@
 LANGUAGES & TECHNOLOGIES
-C • C++ • .NET • Python
+C C++ .NET Python
 
 AREAS OF INTEREST
 Systems Programming
@@ -8,13 +8,21 @@ Cybersecurity
 Networking
 
 SECURITY & OFFENSIVE / DEFENSIVE
-Cybersecurity & Hacking Ethics in Hacking Security Research
-Vulnerability Analysis Attack & Defense OSINT
-Digital Footprint Analysis Network Monitoring Traffic Analysis
+Cybersecurity
+Ethics in Hacking
+Security Research
+Vulnerability Analysis
+Attack & Defense OSINT
+Digital Footprint
+Network Monitoring
+Traffic Analysis
 
 VECTORS
-Ransomware | Trojans | Spywares
-Social Engineering | Phishing | Smishing | Vishing | Baiting | Whaling
+Ransomwars
+Trojans
+Spywares
+Social Engineering
+Phishing | Smishing | Vishing | Baiting | Whaling
 
 VIRTUALIZATION
 Hypervisors
