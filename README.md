@@ -11,7 +11,7 @@ Ethics in Hacking, Attack & Defense OSINT, Digital Footprint
 Ransomware | Trojans | Spyware  
 Social Engineering (Phishing, Smishing, Vishing, Baiting, Whaling)
 
-Virtualization:  
+# Virtualization:  
 Hypervisors, Virtual Machines, Kernel Development
 
 <p align="center">
