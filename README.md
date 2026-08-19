@@ -1,9 +1,6 @@
 LANGUAGES & TECHNOLOGIES:
 - C | C++ | .NET | Python
 
-<details>
-<summary><b>AREAS OF INTEREST & MORE</b></summary>
-
 AREAS OF INTEREST:
 - Systems Programming, Software Development, Cybersecurity, Networking
 
@@ -16,8 +13,6 @@ VECTORS:
 
 VIRTUALIZATION:
 - Hypervisors, Virtual Machines, Kernel Development
-
-</details>
 
 <p align="center">
   <picture>
